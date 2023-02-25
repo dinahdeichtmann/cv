@@ -267,3 +267,22 @@ p {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+@media (max-width: 600px) {
+  .about .box {
+    flex-direction: column;
+    margin-bottom: 5px;
+  }
+
+  .about .box .year_company {
+    margin-bottom: 5px;
+  }
+
+  .skills .box {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .interest ul {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
