@@ -205,6 +205,16 @@ p {
   text-transform: uppercase;
   color: goldenrod;
   font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.about .box .text ul {
+  color: #333;
+}
+
+.about .box .text ul li {
+  margin-left: 20px;
+  padding: 2px 5px;
 }
 
 /* SKILLS */
