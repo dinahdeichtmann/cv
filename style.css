@@ -150,7 +150,7 @@ body {
   font-weight: 500;
 }
 
-.contact-info.education h4:nth-child(2) {
+.contact-info.education h4:nth-child(even) {
   color: whitesmoke;
   font-weight: 500;
 }
