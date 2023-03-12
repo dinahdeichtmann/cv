@@ -1,4 +1,4 @@
-# Quiz App with vanilla HTML, CSS, and JavaScript
+# Fully responsive online CV
 
 ![Home Screen](./assets/cover.png)
 
@@ -12,6 +12,10 @@ See the final result deployed [here](https://dinahdeichtmann.github.io/cv-en/)!
 
 - HTML
 - CSS
+
+## Other version
+
+This is the English version. Find a French one online [here](https://dinahdeichtmann.github.io/cv-fr/) or [here](https://github.com/dinahdeichtmann/cv-fr) for the repository.
 
 ## Credit
 
